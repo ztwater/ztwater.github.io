@@ -38,7 +38,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 **ICSE 2025** (CCF-A)
 
 [**Project**](https://github.com/ztwater/Instruct-or-Interact) 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -53,7 +53,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 **TSE 2024** (CCF-A, SCI-Q1)
 
-[**Project**](https://github.com/ztwater/how_to_adapt_code_snippet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/ztwater/how_to_adapt_code_snippet) 
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>

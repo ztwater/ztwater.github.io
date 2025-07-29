@@ -60,7 +60,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 [**Project**](https://github.com/ztwater/how_to_adapt_code_snippet) 
 
-- We investigate how developers adapt code snippets to their project context based on a semi-structured interview and a quantitative study on 300 real-world code adaptation cases. We provide valuable insights into code adaptation practices and obtain four typical context-based adaptation patterns. 
+- We investigate how developers adapt code snippets to their project context based on a semi-structured interview and a quantitative study on 300 real-world adaptation cases. We point out current challenges in the adaptation practices and obtain four typical context-based adaptation patterns. 
 </div>
 </div>
 

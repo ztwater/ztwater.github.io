@@ -31,13 +31,14 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering](https://arxiv.org/abs/2411.15501)
+[Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering](https://ieeexplore.ieee.org/document/11029912)
 
 **Tanghaoran Zhang**, Yue Yu, Xinjun Mao, Shangwen Wang, Kang Yang, Yao Lu, Zhang Zhang and Yuxin Zhao.
 
 **ICSE 2025** (CCF-A)
 
-[**Project**](https://github.com/ztwater/Instruct-or-Interact) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/ztwater/Instruct-or-Interact) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>

@@ -32,9 +32,10 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 ## Representative Works
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='images/ICSE-25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering](https://ieeexplore.ieee.org/document/11029912)
+
 
 **Tanghaoran Zhang**, Yue Yu, Xinjun Mao, Shangwen Wang, Kang Yang, Yao Lu, Zhang Zhang and Yuxin Zhao.
 
@@ -43,12 +44,13 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 [**Project**](https://github.com/ztwater/Instruct-or-Interact) 
 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We first empirically investigate the performance and issues of Large Language Models (LLMs) on the code adaptation task and find their  sub-optimal performance are caused by three main reasons: (1) Unclear Requirement, (2) Requirement Misalignment and (3) Context Misapplication. To resolve such issues, we propose an interactive prompting approach to eliciting LLMs’ ability in code snippet adaptation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div><img src='images/TSE-24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [How Do Developers Adapt Code Snippets to Their Contexts? An Empirical Study of Context-Based Code Snippet Adaptations](https://ieeexplore.ieee.org/document/10510659)
 
@@ -58,7 +60,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 [**Project**](https://github.com/ztwater/how_to_adapt_code_snippet) 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We investigate how developers adapt code snippets to their project context based on a semi-structured interview and a quantitative study on 300 real-world code adaptation cases. We provide valuable insights into code adaptation practices and obtain four typical context-based adaptation patterns. 
 </div>
 </div>
 
@@ -84,21 +86,21 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 - [Verifying ReLU Neural Networks from a Model Checking Perspective](https://link.springer.com/article/10.1007/s11390-020-0546-7), Wanwei Liu, Fu Song, **Tanghaoran Zhang** and Ji Wang, **JCST 2020** (CCF-B).
 
 # 🎖 Honors and Awards
-- *2025.04* ACM SIGSOFT Distinguished Paper Award in ICPC 2025.
-- *2023.03* Second-Prize Merit Scholarship, NUDT.
-- *2020.05* Qiangjun Scholarship, NUDT.
-- *2019.10* Outstanding Winner of M* Modeling Contest.
-- *2019.10* CCF Outstanding Undergraduate, CCF.
-- *2019.05* Yinhe Scholarship, College of Computer Science and Technology, NUDT.
-- *2019.05* Meritorious Winner of MCM/ICM.
-- *2018.05* Meritorious Winner of MCM/ICM.
+- *2025.04*, 🏆ACM SIGSOFT Distinguished Paper Award in ICPC 2025.
+- *2023.03*, 💰Second-Prize Merit Scholarship, NUDT.
+- *2020.05*, 💰Qiangjun Scholarship, NUDT.
+- *2019.10*, 🏅Outstanding Winner of M* Modeling Contest.
+- *2019.10*, 🏆CCF Outstanding Undergraduate, CCF.
+- *2019.05*, 💰Yinhe Scholarship, College of Computer Science and Technology, NUDT.
+- *2019.05*, 🏅Meritorious Winner of MCM/ICM.
+- *2018.05*, 🏅Meritorious Winner of MCM/ICM.
 
 # 📖 Educations
 - *2020.09 - now*, National University of Defense Technology (NUDT), Ph.D. Student in Software Engineering. 
 - *2016.09 - 2020.06*, Tsien Hsue-shen Class (**1/30**), National University of Defense Technology (NUDT), B.E. in Software Engineering. 
 - *2010.09 - 2016.06*, The High School Affiliated to Renmin University of China (RDFZ), Middle and High School.
 
-# 🪉 Services
+# ⚙️ Services
 - **Reviewer**
   - EMSE, KAIS
 - **External Reviewer**
@@ -106,7 +108,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
   - Conference: ICLR'25, ASE'24, ESEM'24
 
 # 💬 Invited Talks
-- *2024.12*, ICSE 2025 Paper Pre-conference Presentation | [Video](https://www.bilibili.com/video/BV1RhBjYgEJs)
+- *2024.12*, ICSE 2025 Paper Pre-conference Presentation \| [Video](https://www.bilibili.com/video/BV1RhBjYgEJs).
 
 # 💻 Internships
 - *2025.03 - 2025.09*, Visiting student at Peng Cheng Laboratory, Shenzhen, Guangdong.

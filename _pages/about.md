@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in National University of Defense Technology (NUDT). I am supervised by Prof. Xinjun Mao and co-supervised by Prof. Yue Yu. I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include LLM4SE, code snippet adaptation, software analytics and robotic software.
+I am currently a Ph.D. student in National University of Defense Technology (NUDT). I am supervised by Prof. Xinjun Mao and co-supervised by Prof. Yue Yu. I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include AI/LLM4SE, code reuse, code snippet adaptation, and empirical software engineering.
 
 
 # 🔥 News
@@ -42,8 +42,6 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
----
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

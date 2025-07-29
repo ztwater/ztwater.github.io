@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mcpdzSYAAAAJ"
   email            : "zhangthr@nudt.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Tanghaoran-Zhang"
+  researchgate     : "https://www.researchgate.net/profile/Tanghaoran-Zhang"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # ztwater
+  github           : https://github.com/ztwater # ztwater
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/329/3958.html"
   orcid            : "https://orcid.org/0000-0001-7241-9730"
   pinterest        :
   soundcloud       :

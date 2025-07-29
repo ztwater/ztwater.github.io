@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tanghaoran Zhang"
+  name             : "Tanghaoran Zhang (张汤浩然)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "National University of Defense Technology"
   location         : "Changsha, Hunan, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "ztwater"
+  github           : # ztwater
   google_plus      :
   keybase          :
   instagram        :

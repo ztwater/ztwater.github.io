@@ -56,10 +56,8 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 [**Project**](https://github.com/ztwater/how_to_adapt_code_snippet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-  </div>
-  </div>
-
----
+</div>
+</div>
 
 ## All Publications
 

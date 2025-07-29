@@ -51,7 +51,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 **Tanghaoran Zhang**, Yao Lu, Yue Yu, Xinjun Mao, Yang Zhang and Yuxin Zhao.
 
-**TSE 2024** (CCF-A, SCI-Q1)
+**TSE 2024** (CCF-A, JCR-Q1)
 
 [**Project**](https://github.com/ztwater/how_to_adapt_code_snippet) 
 

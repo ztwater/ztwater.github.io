@@ -44,7 +44,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 [**Project**](https://github.com/ztwater/Instruct-or-Interact) 
 
 
-- We first empirically investigate the performance and issues of Large Language Models (LLMs) on the code adaptation task and find their  sub-optimal performance are caused by three main reasons: (1) Unclear Requirement, (2) Requirement Misalignment and (3) Context Misapplication. To resolve such issues, we propose an interactive prompting approach to eliciting LLMs’ ability in code snippet adaptation.
+- We first empirically investigate the capability of Large Language Models (LLMs) on the code adaptation task and find their sub-optimal performance are caused by three main reasons: (1) Unclear Requirement, (2) Requirement Misalignment and (3) Context Misapplication. To resolve above issues, we propose an interactive prompting approach to eliciting LLMs’ ability in code snippet adaptation.
 </div>
 </div>
 

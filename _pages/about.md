@@ -64,9 +64,11 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 </div>
 </div>
 
-## All Publications
+----
+
 - [FENSE: A Feature-based Ensemble Modeling Approach to Cross-project Just-in-time Defect Prediction](https://link.springer.com/article/10.1007/s10664-022-10185-8), **Tanghaoran Zhang**, Yue Yu, Xinjun Mao, Yao Lu, Zhixing Li and Huaimin Wang, **EMSE** (CCF-B, JCR-Q1).
 
+## All Publications
 - [Understanding the Faults in Serverless Computing Based Applications: An Empirical Study](https://ztwater.github.io), Changrong Xie, Yang Zhang, Xinjun Mao, Kang Yang and **Tanghaoran Zhang**, **ICSME 2025** (CCF-B).
 
 - [CARLDA: An Approach for Stack Overflow API Mention Recognition Driven by Context and LLM-based Data Augmentation](https://onlinelibrary.wiley.com/doi/10.1002/smr.70015), Zhang Zhang, Xinjun Mao, Shangwen Wang, Kang Yang, **Tanghaoran Zhang** and Yao Lu, **JSEP** (CCF-B).

@@ -73,7 +73,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 - [CARLDA: An Approach for Stack Overflow API Mention Recognition Driven by Context and LLM-based Data Augmentation](https://onlinelibrary.wiley.com/doi/10.1002/smr.70015), Zhang Zhang, Xinjun Mao, Shangwen Wang, Kang Yang, **Tanghaoran Zhang** and Yao Lu, **JSEP** (CCF-B).
 
-- [Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks](https://ieeexplore.ieee.org/document/11025927), Kang Yang, Xinjun Mao, Shangwen Wang, Yanlin Wang, **Tanghaoran Zhang**, Bo Lin, Yihao Qin, Zhang Zhang, Yao Lu and Kamal Al-Sabahi, **ICPC 2025** (CCF-B).
+- [Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks](https://ieeexplore.ieee.org/document/11025927), Kang Yang, Xinjun Mao, Shangwen Wang, Yanlin Wang, **Tanghaoran Zhang**, Bo Lin, Yihao Qin, Zhang Zhang, Yao Lu and Kamal Al-Sabahi, **ICPC 2025** (CCF-B),  🏆 <span style="color:red">***ACM SIGSOFT Distinguished Paper Award***</span>.
 
 - [Improving API Knowledge Comprehensibility: A Context-Dependent Entity Detection and Context Completion Approach Using LLM](https://ieeexplore.ieee.org/document/10992400), Zhang Zhang, Xinjun Mao, Shangwen Wang, Kang Yang, **Tanghaoran Zhang**, Fei Gao and Xunhui Zhang, **SANER 2025** (CCF-B).
 

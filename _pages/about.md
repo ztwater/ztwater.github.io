@@ -32,10 +32,12 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 # 📝 Publications 
 
 ## Representative Works
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2025</div><img src='images/ASE-25.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 [AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation](https://ztwater.github.io/)
+
 
 **Tanghaoran Zhang**, Xinjun Mao, Shangwen Wang, Yuxin Zhao, Yao Lu, Jin Zhang, Zhang Zhang, Kang Yang and Yue Yu.
 
@@ -44,9 +46,8 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 [**Project**](https://github.com/ztwater/) 
 
 - We construct ***AdaptEval***, the first benchmark for evaluating LLM-based code snippet adaptation. It incorporates three distinctive features:  (1) practical context derived from developers’ practices, preserving rich contextual information from Stack Overflow and GitHub communities; (2) multi-granularity annotations supporting the evaluation of LLMs across diverse adaptation scenarios; (3) fine-grained evaluation implemented by a two-tier testing framework, which enables evaluating LLMs’ performance across various individual adaptations. We evaluate 6 instruction-tuned LLMs and 3 reasoning LLMs on it.
-
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='images/ICSE-25.png' alt="sym" width="100%"></div></div>
 

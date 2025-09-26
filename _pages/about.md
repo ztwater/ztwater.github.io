@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in National University of Defense Technology (NUDT). I am supervised by Prof. Xinjun Mao and co-supervised by Prof. Yue Yu. I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include AI/LLM4SE, code reuse, code snippet adaptation, and empirical software engineering.
+I am currently a Ph.D. student in National University of Defense Technology (NUDT). I am supervised by Prof. Xinjun Mao and co-supervised by [Prof. Yue Yu](https://yuyue.github.io/). I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include AI/LLM4SE, code reuse, code snippet adaptation, and empirical software engineering.
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper about *Code Adaptation Benchmark (AdaptEval)* was accepted by **ASE 2025** after major revision! This is the first **ASE** paper in our group!
 - *2025.06*: &nbsp;🎉🎉 One paper accepted to **ICSME 2025**. 
 - *2025.04*: &nbsp;🎉🎉 Thrilled to announce our ICPC paper won 🏆<span style="color:red">***ACM SIGSOFT Distinguished Paper Award***</span>!
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by **ICPC 2025**. 
@@ -31,8 +32,24 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 # 📝 Publications 
 
 ## Representative Works
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2025</div><img src='images/ASE-25.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+[AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation](https://ztwater.github.io/)
+
+**Tanghaoran Zhang**, Xinjun Mao, Shangwen Wang, Yuxin Zhao, Yao Lu, Jin Zhang, Zhang Zhang, Kang Yang and Yue Yu.
+
+**ASE 2025** (<span style="color:red">**CCF-A**</span>)
+
+[**Project**](https://github.com/ztwater/) 
+
+- We construct ***AdaptEval***, the first benchmark for evaluating LLM-based code snippet adaptation. It incorporates three distinctive features:  (1) practical context derived from developers’ practices, preserving rich contextual information from Stack Overflow and GitHub communities; (2) multi-granularity annotations supporting the evaluation of LLMs across diverse adaptation scenarios; (3) fine-grained evaluation implemented by a two-tier testing framework, which enables evaluating LLMs’ performance across various individual adaptations. We evaluate 6 instruction-tuned LLMs and 3 reasoning LLMs on it.
+
+  </div>
+  </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2025</div><img src='images/ICSE-25.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 [Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering](https://ieeexplore.ieee.org/document/11029912)
 
@@ -43,14 +60,12 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 [**Project**](https://github.com/ztwater/Instruct-or-Interact) 
 
-
 - We first empirically investigate the capability of Large Language Models (LLMs) on the code adaptation task and find their sub-optimal performance are caused by three main reasons: (1) Unclear Requirement, (2) Requirement Misalignment and (3) Context Misapplication. To resolve above issues, we propose an interactive prompting approach to eliciting LLMs’ ability in code snippet adaptation.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div><img src='images/TSE-24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [How Do Developers Adapt Code Snippets to Their Contexts? An Empirical Study of Context-Based Code Snippet Adaptations](https://ieeexplore.ieee.org/document/10510659)
 
@@ -69,6 +84,8 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 - [FENSE: A Feature-based Ensemble Modeling Approach to Cross-project Just-in-time Defect Prediction](https://link.springer.com/article/10.1007/s10664-022-10185-8), **Tanghaoran Zhang**, Yue Yu, Xinjun Mao, Yao Lu, Zhixing Li and Huaimin Wang, **EMSE** (CCF-B, JCR-Q1), **2022**
 
 ## All Publications
+- [ConflictLens: An LLM-Based Method for Detecting Semantic Merge Conflicts](https://ztwater.github.io), Longfei Sun, Yao Lu, Xinjun Mao, **Tanghaoran Zhang**, Zhang Zhang and Huiping Zhou, **SEKE 2025** (CCF-C).
+
 - [Understanding the Faults in Serverless Computing Based Applications: An Empirical Study](https://ztwater.github.io), Changrong Xie, Yang Zhang, Xinjun Mao, Kang Yang and **Tanghaoran Zhang**, **ICSME 2025** (CCF-B).
 
 - [CARLDA: An Approach for Stack Overflow API Mention Recognition Driven by Context and LLM-based Data Augmentation](https://onlinelibrary.wiley.com/doi/10.1002/smr.70015), Zhang Zhang, Xinjun Mao, Shangwen Wang, Kang Yang, **Tanghaoran Zhang** and Yao Lu, **JSEP** (CCF-B), **2025**.
@@ -103,10 +120,13 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 - *2010.09 - 2016.06*, The High School Affiliated to Renmin University of China (RDFZ), Middle and High School.
 
 # ⚙️ Services
+- **Program Committee**
+  - ICSE'26 Shadow PC
+
 - **Reviewer**
   - EMSE, KAIS
 - **External Reviewer**
-  - Journal: TOSEM, JCST, JoS
+  - Journal: TSE, TOSEM, EMSE, JCST, JoS
   - Conference: ICLR'25, ASE'24, ESEM'24
 
 # 💬 Invited Talks

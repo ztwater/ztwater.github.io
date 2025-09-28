@@ -45,7 +45,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 [**Project**](https://github.com/ztwater/) 
 
-- We construct ***AdaptEval***, the first benchmark for evaluating LLM-based code snippet adaptation. It incorporates three distinctive features:  (1) practical context derived from developers’ practices, preserving rich contextual information from Stack Overflow and GitHub communities; (2) multi-granularity annotations supporting the evaluation of LLMs across diverse adaptation scenarios; (3) fine-grained evaluation implemented by a two-tier testing framework, which enables evaluating LLMs’ performance across various individual adaptations. We evaluate 6 instruction-tuned LLMs and 3 reasoning LLMs on it.
+- We construct ***AdaptEval***, the first benchmark for evaluating LLM-based code snippet adaptation. It incorporates three distinctive features:  (1) *practical context* derived from developers’ practices, preserving rich contextual information from Stack Overflow and GitHub communities; (2) *multi-granularity annotations* supporting the evaluation of LLMs across diverse adaptation scenarios; (3) *fine-grained evaluation* implemented by a two-tier testing framework, which enables evaluating LLMs’ performance across various individual adaptations. Six instruction-tuned LLMs and three reasoning LLMs are evaluated.
 </div>
 </div>
 

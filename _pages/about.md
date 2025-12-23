@@ -21,17 +21,35 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our paper about *Context Adaptation Bug Resolution* was directly accepted by **FSE 2026** (9.4%)! This is the first **FSE** paper in our group!
 - *2025.09*: &nbsp;🎉🎉 Our paper about *Code Adaptation Benchmark (AdaptEval)* was accepted by **ASE 2025** after major revision! This is the first **ASE** paper in our group!
 - *2025.06*: &nbsp;🎉🎉 One paper accepted to **ICSME 2025**. 
 - *2025.04*: &nbsp;🎉🎉 Thrilled to announce our ICPC paper won 🏆<span style="color:red">***ACM SIGSOFT Distinguished Paper Award***</span>!
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by **ICPC 2025**. 
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by **SANER 2025**. 
-- *2024.10*: &nbsp;🎉🎉 Our paper about *LLM-based Code Adaptation* was accepted by **ICSE 2025**! This is the first **CCF-A** SE conference paper in our group!
+- *2024.10*: &nbsp;🎉🎉 Our paper about *LLM-based Code Adaptation* was directly accepted by **ICSE 2025** (10.3%)! This is the first **CCF-A** SE conference paper in our group!
 
 
 # 📝 Publications 
 
 ## Representative Works
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/FSE-26.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+[Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation](https://ztwater.github.io/)
+
+
+**Tanghaoran Zhang**, Xinjun Mao, Shangwen Wang, Yuxin Zhao, Yao Lu, Zezhou Tang, Wenyu Xu, Longfei Sun, Changrong Xie, Kang Yang and Yue Yu.
+
+**FSE 2026** (<span style="color:red">**CCF-A**</span>)
+
+[**Project**](https://github.com/ztwater)
+
+- We propose ***CtxBugGen***, a novel framework for generating *CtxBugs* through a four-step process: (1) Selection of four established context-aware adaptation tasks from the literature, (2) Perturbation via task-specific rules to induce *CtxBugs* from LLMs while ensuring their plausibility, (3) Generation of candidate variants by prompting LLMs without any context constraints and (4) Identification of valid *CtxBugs* through syntactic differencing and test execution in the target context. Based on the benchmark constructed by ***CtxBugGen***, we conduct an empirical study with four state-of-the-art LLMs. Our results reveal their unsatisfactory performance in *CtxBug* resolution, highlighting their preference for local code correctness and critical weakness in cross-context reasoning.
+
+  </div>
+  </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2025</div><img src='images/ASE-25.png' alt="sym" width="100%"></div></div>
 
@@ -43,7 +61,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 **ASE 2025** (<span style="color:red">**CCF-A**</span>)
 
-[**Project**](https://github.com/ztwater/) 
+[**Project**](https://github.com/ztwater/AdaptEval) | [**Video**](https://www.bilibili.com/video/BV1JX1aBTED8)
 
 - We construct ***AdaptEval***, the first benchmark for evaluating LLM-based code snippet adaptation. It incorporates three distinctive features:  (1) *practical context* derived from developers’ practices, preserving rich contextual information from Stack Overflow and GitHub communities; (2) *multi-granularity annotations* supporting the evaluation of LLMs across diverse adaptation scenarios; (3) *fine-grained evaluation* implemented by a two-tier testing framework, which enables evaluating LLMs’ performance across various individual adaptations. Six instruction-tuned LLMs and three reasoning LLMs are evaluated.
 </div>
@@ -106,6 +124,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 - [Verifying ReLU Neural Networks from a Model Checking Perspective](https://link.springer.com/article/10.1007/s11390-020-0546-7), Wanwei Liu, Fu Song, **Tanghaoran Zhang** and Ji Wang, **JCST** (CCF-B), **2020**.
 
 # 🎖 Honors and Awards
+- *2025.11*, 💰First-Prize Merit Scholarship, NUDT.
 - *2025.04*, 🏆ACM SIGSOFT Distinguished Paper Award in ICPC 2025.
 - *2023.03*, 💰Second-Prize Merit Scholarship, NUDT.
 - *2020.05*, 💰Qiangjun Scholarship, NUDT.
@@ -128,11 +147,12 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
   - EMSE, KAIS
 - **External Reviewer**
   - Journal: TSE, TOSEM, EMSE, JCST, JoS
-  - Conference: ICLR'25, ASE'24, ESEM'24
+  - Conference: FSE'26, SANER'26, ICLR'25, ASE'24, ESEM'24
 
 # 💬 Invited Talks
+- *2025.11*, ASE 2025 Paper Pre-conference Presentation | [Video](https://www.bilibili.com/video/BV1JX1aBTED8).
 - *2024.12*, ICSE 2025 Paper Pre-conference Presentation \| [Video](https://www.bilibili.com/video/BV1RhBjYgEJs).
 
 # 💻 Internships
-- *2025.03 - 2025.09*, Visiting student at Peng Cheng Laboratory, Shenzhen, Guangdong.
+- *2025.03 - 2025.10*, Visiting student at Peng Cheng Laboratory, Shenzhen, Guangdong.
 - *2019.07 - 2019.10*, Mitacs Research Internship, at [SEAL](https://seal-queensu.github.io) in Queen's University, Canada, supervised by Prof. Ying Zou.

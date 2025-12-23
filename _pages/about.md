@@ -60,7 +60,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 
 **ASE 2025** (<span style="color:red">**CCF-A**</span>)
 
-[**Project**](https://github.com/ztwater/AdaptEval) | [**Video**](https://www.bilibili.com/video/BV1JX1aBTED8)
+[**Project**](https://github.com/ztwater/AdaptEval) \| [**Video**](https://www.bilibili.com/video/BV1JX1aBTED8)
 
 - We construct ***AdaptEval***, the first benchmark for evaluating LLM-based code snippet adaptation. It incorporates three distinctive features:  (1) *practical context* derived from developers’ practices, preserving rich contextual information from Stack Overflow and GitHub communities; (2) *multi-granularity annotations* supporting the evaluation of LLMs across diverse adaptation scenarios; (3) *fine-grained evaluation* implemented by a two-tier testing framework, which enables evaluating LLMs’ performance across various individual adaptations. Six instruction-tuned LLMs and three reasoning LLMs are evaluated.
 </div>
@@ -149,7 +149,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
   - Conference: FSE'26, SANER'26, ICLR'25, ASE'24, ESEM'24
 
 # 💬 Invited Talks
-- *2025.11*, ASE 2025 Paper Pre-conference Presentation | [Video](https://www.bilibili.com/video/BV1JX1aBTED8).
+- *2025.11*, ASE 2025 Paper Pre-conference Presentation \| [Video](https://www.bilibili.com/video/BV1JX1aBTED8).
 - *2024.12*, ICSE 2025 Paper Pre-conference Presentation \| [Video](https://www.bilibili.com/video/BV1RhBjYgEJs).
 
 # 💻 Internships

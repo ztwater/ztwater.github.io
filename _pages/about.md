@@ -35,16 +35,16 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 ## Representative Works
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/FSE-26.png' alt="sym" width="100%"></div></div>
-
 <div class='paper-box-text' markdown="1">
-[Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation](https://ztwater.github.io/)
+[Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation](https://arxiv.org/abs/2601.06497)
+
 
 
 **Tanghaoran Zhang**, Xinjun Mao, Shangwen Wang, Yuxin Zhao, Yao Lu, Zezhou Tang, Wenyu Xu, Longfei Sun, Changrong Xie, Kang Yang and Yue Yu.
 
 **FSE 2026** (<span style="color:red">**CCF-A**</span>)
 
-[**Project**](https://github.com/ztwater)
+[**Project**](https://github.com/ztwater/CtxBugGen)
 
 - We propose ***CtxBugGen***, a novel framework for generating *CtxBugs* through a four-step process: (1) Selection of four established context-aware adaptation tasks from the literature, (2) Perturbation via task-specific rules to induce *CtxBugs* from LLMs while ensuring their plausibility, (3) Generation of candidate variants by prompting LLMs without any context constraints and (4) Identification of valid *CtxBugs* through syntactic differencing and test execution in the target context. Based on the benchmark constructed by ***CtxBugGen***, we conduct an empirical study with four state-of-the-art LLMs. Our results reveal their unsatisfactory performance in *CtxBug* resolution, highlighting their preference for local code correctness and critical weakness in cross-context reasoning.
 </div>
@@ -53,7 +53,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2025</div><img src='images/ASE-25.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
-[AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation](https://ztwater.github.io/)
+[AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation](https://arxiv.org/abs/2601.04540)
 
 
 **Tanghaoran Zhang**, Xinjun Mao, Shangwen Wang, Yuxin Zhao, Yao Lu, Jin Zhang, Zhang Zhang, Kang Yang and Yue Yu.

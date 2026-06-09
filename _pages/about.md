@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in National University of Defense Technology (NUDT). I am supervised by Prof. Xinjun Mao and co-supervised by [Prof. Yue Yu](https://yuyue.github.io/). I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include AI/LLM4SE, code reuse, code snippet adaptation, and empirical software engineering.
+I am currently a Ph.D. student in National University of Defense Technology (NUDT). I am supervised by Prof. Xinjun Mao and co-supervised by [Prof. Yue Yu](https://yuyue.github.io/). I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include AI4SE, code reuse, code snippet adaptation, and empirical software engineering.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉I have successfully defended my PhD dissertation!
+- *2026.04*: &nbsp;🎉🎉 Our paper about *Deprecated NPM Packages* was directly accepted by **ISSTA 2026** (10.1%)! This is the first **ISSTA** paper in our group! Congrats to Zezhou!
 - *2025.12*: &nbsp;🎉🎉 Our paper about *Context Adaptation Bug Resolution* was directly accepted by **FSE 2026** (9.4%)! This is the first **FSE** paper in our group!
 - *2025.09*: &nbsp;🎉🎉 Our paper about *Code Adaptation Benchmark (AdaptEval)* was accepted by **ASE 2025** after major revision! This is the first **ASE** paper in our group!
 - *2025.06*: &nbsp;🎉🎉 One paper accepted to **ICSME 2025**. 
@@ -102,6 +104,8 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
 - [FENSE: A Feature-based Ensemble Modeling Approach to Cross-project Just-in-time Defect Prediction](https://link.springer.com/article/10.1007/s10664-022-10185-8), **Tanghaoran Zhang**, Yue Yu, Xinjun Mao, Yao Lu, Zhixing Li and Huaimin Wang, **EMSE** (CCF-B, JCR-Q1), **2022**
 
 ## All Publications
+- [Deprecated but Not Abandoned: A Large-Scale Empirical Study on Growing-user-demand Deprecated NPM Packages](https://ztwater.github.io), Zezhou Tang, Yang Zhang, Xinjun Mao, **Tanghaoran Zhang**, Changrong Xie, Wenyu Xu, Simeng Yao, Yiwen Wu, **ISSTA 2026** (<span style="color:red">***CCF-A***</span>).
+
 - [ConflictLens: An LLM-Based Method for Detecting Semantic Merge Conflicts](https://ztwater.github.io), Longfei Sun, Yao Lu, Xinjun Mao, **Tanghaoran Zhang**, Zhang Zhang and Huiping Zhou, **SEKE 2025** (CCF-C).
 
 - [Understanding the Faults in Serverless Computing Based Applications: An Empirical Study](https://ztwater.github.io), Changrong Xie, Yang Zhang, Xinjun Mao, Kang Yang and **Tanghaoran Zhang**, **ICSME 2025** (CCF-B).

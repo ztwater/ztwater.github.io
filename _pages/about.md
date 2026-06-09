@@ -153,6 +153,7 @@ I am currently a Ph.D. student in National University of Defense Technology (NUD
   - Conference: FSE'26, SANER'26, ICLR'25, ASE'24, ESEM'24
 
 # 💬 Invited Talks
+- *2026.04*, FSE 2026 Paper Pre-conference Presentation \| [Video](https://weixin.qq.com/sph/AOHbTcCdXf).
 - *2025.11*, ASE 2025 Paper Pre-conference Presentation \| [Video](https://www.bilibili.com/video/BV1JX1aBTED8).
 - *2024.12*, ICSE 2025 Paper Pre-conference Presentation \| [Video](https://www.bilibili.com/video/BV1RhBjYgEJs).
 

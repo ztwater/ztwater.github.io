@@ -119,6 +119,7 @@ I received my Ph.D. degree from National University of Defense Technology (NUDT)
 - [FENSE: A Feature-based Ensemble Modeling Approach to Cross-project Just-in-time Defect Prediction](https://link.springer.com/article/10.1007/s10664-022-10185-8), **Tanghaoran Zhang**, Yue Yu, Xinjun Mao, Yao Lu, Zhixing Li and Huaimin Wang, **EMSE** (CCF-B, JCR-Q1), **2022**
 
 ## All Publications
+- [Detecting Evasive Benchmark Contamination in Code Generation by Mutating Code-Behavior Units](https://ztwater.github.io), Menghan Wu, Xing Hu, **Tanghaoran Zhang** and Shanping Li,  **APSEC 2026** (CCF-C).
 - [BDiff: Block-aware and Accurate Text-based Code Differencing](https://ztwater.github.io), Yao Lu, Wanwei Liu, **Tanghaoran Zhang**, Kang Yang, Yang Zhang, Wenyu Xu, Longfei Sun, Xinjun Mao, Shuzheng Gao and Michael R Lyu, **ASE 2026** (<span style="color:red">***CCF-A***</span>).
 - [Evaluating LLMs in ROS Robotic Software Code Generation](https://ztwater.github.io), Yuxin Zhao, Xinjun Mao, **Tanghaoran Zhang**, Tun Li and Zhiqun Xiao, **EMSE 2026** (CCF-B).
 - [Deprecated but Not Abandoned: A Large-Scale Empirical Study on Growing-user-demand Deprecated NPM Packages](https://ztwater.github.io), Zezhou Tang, Yang Zhang, Xinjun Mao, **Tanghaoran Zhang**, Changrong Xie, Wenyu Xu, Simeng Yao and Yiwen Wu, **ISSTA 2026** (<span style="color:red">***CCF-A***</span>).

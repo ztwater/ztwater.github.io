@@ -61,11 +61,11 @@ I received my Ph.D. degree from National University of Defense Technology (NUDT)
 
 **TOSEM 2026** (<span style="color:red">**CCF-A**</span>)
 
-[**Project**](https://github.com/ztwater/CtxBugGen)
+[**Project**](https://github.com/ztwater/LogiCoder)
 
 - We propose **LogiCoder**, a novel RAG approach that leverages logical relationships to improve LLMs’ repository awareness during code generation. Using a repository-level dependency graph, it retrieves candidate callees and their most contextually similar usage examples, then re-ranks them with semantic search results.
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2025</div><img src='images/ASE-25.png' alt="sym" width="100%"></div></div>
 

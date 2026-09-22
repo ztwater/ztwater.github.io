@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tanghaoran Zhang"
-description              : "Ph.D. student at NUDT, focusing on LLM4SE, code reuse and adaptation, and empirical software engineering"
+description              : "Ph.D. at NUDT, focusing on LLM4SE, code reuse and adaptation, and empirical software engineering"
 repository               : "ztwater/ztwater.github.io"
 google_scholar_stats_use_cdn : true
 

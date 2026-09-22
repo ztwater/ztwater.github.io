@@ -59,7 +59,7 @@ I received my Ph.D. degree from National University of Defense Technology (NUDT)
 
 **Tanghaoran Zhang**, Xinjun Mao, Yuxin Zhao, Kang Yang, Zhang Zhang, Yao Lu, Youren Chen and Yue Yu.
 
-**TSE** (<span style="color:red">**CCF-A**</span>),  **2026**
+**TOSEM** (<span style="color:red">**CCF-A**</span>),  **2026**
 
 [**Project**](https://github.com/ztwater/LogiCoder)
 

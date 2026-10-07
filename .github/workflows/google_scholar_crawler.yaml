@@ -1,29 +1,56 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  page_build:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+# GITHUB_TOKEN needs write access to push the google-scholar-stats branch
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    - name: Restore previous citation data
       run: |
-        sudo apt-get install python3-setuptools
+        # Bring back the last successfully fetched data so the crawler can
+        # fall back to it when Google rate-limits the runner.
+        mkdir -p google_scholar_crawler/results
+        if git fetch origin google-scholar-stats --depth=1 2>/dev/null; then
+          git show origin/google-scholar-stats:gs_data.json > google_scholar_crawler/results/gs_data.json 2>/dev/null || true
+          git show origin/google-scholar-stats:gs_data_shieldsio.json > google_scholar_crawler/results/gs_data_shieldsio.json 2>/dev/null || true
+        fi
+        cd google_scholar_crawler/results
+        if ls *.json >/dev/null 2>&1; then
+          sha256sum *.json > .old_checksums
+        fi
     - name: Run
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
-        cd ./results
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SERP_API_KEY: ${{ secrets.SERP_API_KEY }}
+    - name: Commit and push
+      run: |
+        cd ./google_scholar_crawler/results
+        if [ -f .old_checksums ] && sha256sum -c .old_checksums --quiet >/dev/null 2>&1; then
+          echo "Citation data unchanged, skipping push"
+          exit 0
+        fi
         git init
         git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add *.json
         git commit -m "Updated Citation Data"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from National University of Defense Technology (NUDT) in 2026. During my Ph.D. study, I was fortunate to be supervised by Prof. Xinjun Mao and co-supervised by [Prof. Yue Yu](https://yuyue.github.io/). I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include AI4SE, code reuse, code snippet adaptation, and empirical software engineering.
+I received my Ph.D. degree from National University of Defense Technology (NUDT) in 2026. During my Ph.D. study, I was fortunate to be supervised by Prof. Xinjun Mao and co-supervised by [Prof. Yue Yu](https://yuyue.github.io/). I received the bachelor's degree from Tsien Hsue-shen Class, NUDT, in June 2020. My research interests include AI4SE, code reuse, code snippet adaptation, and empirical software engineering. My papers have been published at top software engineering venues, including ICSE, FSE, ASE, ISSTA, TSE, TOSEM and EMSE, and have received <span id='total_cit'>130+</span> citations on [Google Scholar](https://scholar.google.com/citations?user=mcpdzSYAAAAJ).
 
 
 # 🔥 News

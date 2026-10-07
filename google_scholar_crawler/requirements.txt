@@ -1,1 +1,4 @@
 scholarly>=1.7.11,<2
+# scholarly 1.7.x still uses the bibtexparser 1.x API; 2.x removes
+# bibtexparser.bibdatabase and breaks the import
+bibtexparser<2
